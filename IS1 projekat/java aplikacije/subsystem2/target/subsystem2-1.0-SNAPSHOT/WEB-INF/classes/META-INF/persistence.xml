@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.2" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+  <!-- Define Persistence Unit -->
+  <persistence-unit name="subsystem2Resource" transaction-type="JTA">
+    <jta-data-source>subsystem2Resource</jta-data-source>
+    <class>sub2entities.Product</class>
+    <class>sub2entities.Productincart</class>
+    <class>sub2entities.Cart</class>
+    <class>sub2entities.Category</class>
+    <class>sub2entities.User</class>
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+  </persistence-unit>
+</persistence>

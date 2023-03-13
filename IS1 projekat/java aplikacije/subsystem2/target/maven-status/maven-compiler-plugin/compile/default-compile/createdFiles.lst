@@ -1,0 +1,9 @@
+sub2entities\Category.class
+sub2entities\Product.class
+com\mycompany\subsystem2\resources\Handler2.class
+sub2entities\ProductincartPK.class
+com\mycompany\subsystem2\JAXRSConfiguration.class
+com\mycompany\subsystem2\resources\JavaEE8Resource.class
+sub2entities\User.class
+sub2entities\Cart.class
+sub2entities\Productincart.class

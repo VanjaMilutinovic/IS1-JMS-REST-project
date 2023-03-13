@@ -1,0 +1,5 @@
+sub1entities\User.class
+sub1entities\City.class
+com\mycompany\subsystem1\resources\Handler1.class
+com\mycompany\subsystem1\JAXRSConfiguration.class
+com\mycompany\subsystem1\resources\JavaEE8Resource.class

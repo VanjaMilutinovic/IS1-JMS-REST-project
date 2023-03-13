@@ -1,0 +1,13 @@
+com\mycompany\subsystem3\JAXRSConfiguration.class
+sub3entities\Product.class
+sub3entities\Orderitem.class
+sub3entities\ProductsincartPK.class
+com\mycompany\subsystem3\resources\Handler3.class
+sub3entities\User.class
+sub3entities\Productsincart.class
+sub3entities\Order1_1.class
+sub3entities\Cart.class
+sub3entities\OrderitemPK.class
+sub3entities\Review.class
+sub3entities\Transaction.class
+com\mycompany\subsystem3\resources\JavaEE8Resource.class
